@@ -1,7 +1,7 @@
 {
   "info": [
     {
-      "package_name": "com.galaxymusicplayer.audioplayer.mp3player.musicplayer",
+      "package_name": "galaxymusicplayer.mp3player.audioplayer.mp3player.musicplayer",
       "active_ad": "1",
       "random_no": "1",
       "fb_advance_native_skippos": "9",
@@ -19,8 +19,8 @@
       "is_forcefully": "false",
       "is_live": "true",
       "new_url": "",
-      "version_code": "1",
-      "new_version_code": "1",
+      "version_code": "9",
+      "new_version_code": "9",
       "google_native_appid": "",
       "message": "New Version Available.",
       "custom_adurl": "",
