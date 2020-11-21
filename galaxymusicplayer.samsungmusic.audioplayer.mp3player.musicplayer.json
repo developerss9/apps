@@ -23,11 +23,11 @@
       "new_version_code": "1",
       "google_native_appid": "",
       "message": "New Version Available.",
-      "custom_adurl": "",
-      "customad_pkg": "",
+      "custom_adurl": "https://raw.githubusercontent.com/developerss9/images/master/videoplayer_all.png",
+      "customad_pkg": "free.video.player.videoplayer",
       "cust_isshow": "false",
       "notiappname": "BoyzPix - Photo Editor and Beard Maker",
-      "notidesc": "BoyzPix - Photo Editor and Beard Maker Newest app for boys and Girls",
+      "notidesc": "BoyzPix - Photo Editor",
       "notiurl": "",
       "notipkg": "boyzpixphotoeditor.photoeditor.boysphotoeditor"
     }
