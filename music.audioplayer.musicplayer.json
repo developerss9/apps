@@ -24,7 +24,7 @@
       "message": "New version available on Google Play Store.",
       "custom_adurl": "https://raw.githubusercontent.com/developerss9/images/master/videoplayer_all.png",
       "customad_pkg": "free.video.player.videoplayer",
-      "cust_isshow": "true",
+      "cust_isshow": "false",
       "notiappname": "Gallery",
       "notidesc": "Gallery - Ad Free",
       "notiurl": "",
